@@ -1,0 +1,11 @@
+{
+    "name": "kalquaddoomi/twitter-bern-bank",
+    "description": "Twitter GOTV Tool",
+    "license": "MIT",
+    "require": {
+	    "j7mbo/twitter-api-php": "dev-master",
+        "predis/predis":"1.*",
+        "abraham/twitteroauth": "^0.6.2",
+        "joshcam/mysqli-database-class": "dev-master"
+    }
+}
